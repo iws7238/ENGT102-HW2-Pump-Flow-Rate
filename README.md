@@ -48,4 +48,5 @@ END
 
 ## Reflection
 
-
+- Students should describe one change they made between their inital algorithm or pseudocode in their implentation of the final program.
+- Students should explain how their test cases gave them confidence that the program works as intended.
