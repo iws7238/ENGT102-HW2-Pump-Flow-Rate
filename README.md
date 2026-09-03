@@ -28,5 +28,24 @@ DISPLAY flow_rate
 
 END
 
+## Testing
+
+### Test 1
+
+- Volume (L): 15
+- Time (s): 20
+- Expected Flow Rate (L/s): 0.75
+- Actual Flow Rate (L/s): 0.75
+- Result: Pass
+
+### Test 2
+
+- Volume (L):40
+- Time (s): 200
+- Expected Flow Rate (L/s): 0.2
+- Actual Flow Rate (L/s): 0.2
+- Result: Pass
+
+## Reflection
 
 
